@@ -1,6 +1,6 @@
 # Yelp-Dataset
-This is my Database Implementation from Yelp Dataset.
+A Database Implementation from Yelp Dataset.
 
-The code illustrates how I obtained information of every single restaurant from the JSON file. Then I built up a simple database.
+Given a JSON file consist of Yelp Dataset about restaurant, parse data from the JSON file to the database
 
-Given a user's query, I can iterate the database and print out the information of all the restaurants that satisfy the query's request.
+Given a user's query, search the database and generate information that satisfy the user's query.
